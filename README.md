@@ -8,3 +8,4 @@ A repository to maintain all of my answers to Leetcode questions.
 | 2 | Add Two Numbers                                   | ![#EF6C00](https://placehold.it/15/EF6C00/000000?text=+) Medium |
 | 3 | Longest Substring Without Repeating Characters    | ![#EF6C00](https://placehold.it/15/EF6C00/000000?text=+) Medium |
 | 7 | Reverse Integer                                   | ![#EF6C00](https://placehold.it/15/EF6C00/000000?text=+) Easy   |
+| 14 | Longest Common Prefix                              | ![#EF6C00](https://placehold.it/15/EF6C00/000000?text=+) Easy   |
