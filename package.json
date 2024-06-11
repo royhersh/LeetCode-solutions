@@ -4,7 +4,7 @@
   "description": "A repository to maintain all of my answers to Leetcode questions.",
   "main": "index.js",
   "dependencies": {
-    "expect": "^24.9.0"
+    "expect": "^29.7.0"
   },
   "devDependencies": {},
   "scripts": {
